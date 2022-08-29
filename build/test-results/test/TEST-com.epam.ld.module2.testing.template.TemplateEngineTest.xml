@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.ld.module2.testing.template.TemplateEngineTest" tests="7" skipped="1" failures="0" errors="0" timestamp="2022-08-29T12:09:45" hostname="EPBYGOMW02ED" time="0.733">
+  <properties/>
+  <testcase name="spyMock()" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.473"/>
+  <testcase name="testFile()" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.192"/>
+  <testcase name="givenTestMethodWithTempDirectory_whenWriteToFile_thenContentIsCorrect(Path)" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.02"/>
+  <testcase name="templateEngineTest(String)[1]" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.015"/>
+  <testcase name="templateEngineTest(String)[2]" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.002"/>
+  <testcase name="templateEngineTest(String)[3]" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.002"/>
+  <testcase name="templateEngineTest1()" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
